@@ -1,0 +1,2 @@
+this is to practice stash command
+i am practicing stash command to save the local changes
